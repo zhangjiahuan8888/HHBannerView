@@ -34,6 +34,7 @@
 #pragma mark - HHBannerViewDelegate
 - (void)hhBannerView:(HHBannerView *)bannerView didSelectItemAtIndex:(NSInteger)index{
     NSLog(@"点击的图片下标___%ld",(long)index);
+    NSLog(@"  %ld",(long)index);
 }
 
 - (void)didReceiveMemoryWarning {
