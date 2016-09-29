@@ -1,4 +1,4 @@
-##希望小手能顺便点一下右上角的⭐️Star ^_^，朋友的鼓励和支持是我们继续分享的动力，万分感谢！！
+
 
 ##示例图片
 ![gif](https://github.com/zhangjiahuan8888/HHBannerView/blob/master/HHBannerView/banner.gif)
